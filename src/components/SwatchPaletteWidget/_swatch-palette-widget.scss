@@ -14,7 +14,7 @@
       }
       .#{$prefix}--swatch-value {
         float: right;
-        user-select: text;
+        -webkit-user-select: all;
       }
     }
 
